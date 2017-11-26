@@ -1,0 +1,38 @@
+## 数学 (mathematic)
+
+- triangle 三角形
+- diagonally 对角的，斜对的
+- logarithm 对数
+- exponent 指数
+- exponential adj. 指数的 n. 指数
+- fractional 小数的
+- scientific notation 科学记数法
+- step function 阶跃函数
+- indicator function 指数函数
+- matrix 矩阵
+- transpose 转置
+- gradient 梯度
+- inner product 内积
+
+- axiom 公理
+- theorem 定理
+- operation 运算
+- prove 证明
+- hypothesis, hypotheses 假设
+- proposition 命题
+- arithmetic 算术
+- plus 加
+- augend, summand 被加数
+- addend 加数
+- sum 和
+- minus 减
+- minuend 被减数
+- subtrahend 减数
+- multiply(v.), times(prep.), multiplication(n.) 乘
+- multiplicand, faciend 乘数
+- multiplicator 乘数
+- multiplication 乘法，乘法表
+- divided by(prep.), divided(v.), division(n.) 除
+- dividend 被除数
+- divisor 除数
+- quotient 商

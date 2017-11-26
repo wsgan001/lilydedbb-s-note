@@ -1,0 +1,130 @@
+## 常用英语 (Common English)
+
+- contiguous 连续的，邻近的
+- explanatory 说明的，解释的
+- assemble 装配，集合
+- sufficient 足够的，充分的
+- esoteric 神秘的，难懂的
+- restriction 限制，约束
+- adequate 充足的，足够的
+- intervene vi. 插入,介入,干涉,调停 [计算机] 介入
+- subsequent 随后的，后来的
+- compact 紧凑的,紧密的,简洁的
+- substitution 代理,替换,交换
+- tornado 飓风,旋风,龙卷风
+- robust 强健的
+- constraint 约束
+- brush n. 刷子,画笔,轻擦,小冲突, 灌木丛 vt. 用刷子清洗,画,拭去,打发 vi. 轻擦,拂拭
+- latency 潜在
+- automation 自动化
+- nanosecond 纳秒
+- panel 面板
+- redundancy 冗余,备份,多余信息
+- routine 常规，常规的
+- perforator 穿孔器,穿孔员
+- consistent 一致的
+- accommodate vi. 使自己适应 vt. 使一致
+- augment 增加,补充
+- multiprocessing 多重处理, 多处理技术
+- structural 结构的, 构造的，建筑的，建筑用的
+- obsolete 已废弃的, 过时的
+- inclusive 包括的
+- vital 至关重要的, 生死攸关的, 有活力的, 充满生机的
+- intentionally 有意的
+- coexist 共存
+- defective 有缺陷的
+- interpretable 能说明的,能翻译的,可判断的
+- fourscore 八十
+- penalty 处罚，惩罚
+- violate 违犯, 亵渎, 干扰, 侵犯, 强奸
+- indefinitely 无限的
+- forth 向前，向前方
+- crop 庄稼,收成, 一群
+- significant 有意义的
+- craze 狂热
+- consequently 因此
+- anticipate 预期，期望；占先，抢先；提前使用
+- bypass vt. 绕开, 忽视 n. 支路，旁道
+- grant 承认；同意；准许
+- hierarchical 按等级划分的
+- scattered 分散的，稀疏的
+- superimpose 重叠(安装,添加)
+- deter 制止,使...断念
+- turnkey 即可使用的
+- suspension 悬挂,悬浮液,暂缓,未决,中止
+- seamless 无缝的
+- redundant 多余的,失业的
+- degrade vt. 贬低；使……丢脸；使……降级；使……降解 vi. 降级，降低；退化
+- substantial n. 重要部份, 本质 adj. 大量的, 实质上的, 有内容的
+- solely 独自地,单独地
+- negate 否定，否认
+- reinstate 恢复(原职)
+- nicety 精确，谨慎，精细
+- discard 丢弃，抛弃
+- transaction 交易,处理,办理
+- strike 罢工, 打击
+- occasionally 偶然的
+- tension n. 紧张,张力,拉力 vt. （使金属线、帆等）拉紧
+- disregard n. 不理会, 漠视 vt. 忽视, 不顾
+- essentially 本质上,本来
+- ensemble 全体
+- subsequent 随后的,后来的
+- compact adj. 紧凑的,紧密的,简洁的 v. 使装满,使简洁
+- manufacture n. 产品,制造,制造业 vt. 制造,加工
+- purge 净化,清除,摆脱
+- endeavor n. 努力, 尽力, 进取心 vt. 努力,尽力 vi. 企图, 谋求
+- proprietary
+- accuracy n. 准确(性), 精确度
+- expunge v. 擦掉, 删掉, 除去
+- reflect v. 反映, 反射
+- autobahn 高速公路
+- crucial 重要的
+- persistent 持久的；固执的，坚持的
+- manually 手动的
+- literal 文字
+- exploit v.开发，利用；n.功绩
+- scope 能力，范围，眼界，机会，仔细研究
+- faulty 能力，才能
+- disturbance 扰乱，骚动
+- stuff 材料，原料；素质，本质
+- stripe 条纹，线条
+- correspondence 通信，一致，相当
+- knob 把手
+- wedge n.楔子，楔形物 v.被卡住
+- provoke 激怒，惹起，驱使
+- bucket 水桶
+- likelihood 可能性
+- slavery 奴隶制
+- orient 东方，东方国家
+- youngster 年轻人
+- marble 大理石的，冷酷的
+- waggon 货车车厢，车皮
+- doctrine 教义，主义
+- ambassador 大使
+- scratch n.抓痕 v.抓
+- elaborate 精细的
+- cruise 巡航，巡游
+- chill 寒冷的，冷漠的，寒冷，寒意，使···寒冷，感到寒冷
+- dwell 存在，居住，冥想
+- pier 码头
+- hurricane 飓风
+- tackle 工具，处理，抓住
+- boast 吹牛，自夸
+- cable 电缆
+- charm 魔力，魅力
+- prevail 获胜，盛行，主导
+- bearer 持票人
+- declarative 陈述的，说明的
+- acyclic 非循环的；[物] 非周期的
+- adjacent 邻近的，毗连的
+- immutable 不变的
+- retailers 零售商
+- distributors 经销商
+- suppliers 供应商
+- contestants 选手
+- dummy 虚拟的；假的
+- ambient n. 周围环境 adj. 周围的；外界的；环绕的
+- emissive 发射的；放射性的；发出的
+- specular 镜子的；会反射的；镜子一般的
+- quota 配额；定额；限额
+- inventory 存货

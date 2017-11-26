@@ -1,0 +1,48 @@
+{
+  "author": "lilydedbb",
+  "description": "This is a book created by dbb",
+  "extension": null,
+  "generator": "site",
+  "isbn": "",
+  "links": {
+    "sharing": {
+      "all": null,
+      "facebook": null,
+      "google": null,
+      "twitter": null,
+      "weibo": null
+    },
+    "sidebar": {
+      "lilydedbb's Blog": "http://lilydedbb.net.cn",
+      "lilydedbb's github": "https://github.com/lilydedbb"
+    }
+  },
+  "output": null,
+  "pdf": {
+    "fontSize": 12,
+    "footerTemplate": null,
+    "headerTemplate": null,
+    "margin": {
+      "bottom": 36,
+      "left": 62,
+      "right": 62,
+      "top": 36
+    },
+    "pageNumbers": false,
+    "paperSize": "a4"
+  },
+  "plugins": ["disqus", "multipart", "github", "sitemap"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "introducetogitbook"
+    },
+    "github": {
+      "url": "https://github.com/lilydedbb/my-gitbook"
+    },
+    "sitemap": {
+      "hostname": "http://localhost:4000/"
+    }
+  },
+  "title": "lilydedbb de GitBook",
+  "variables": {}
+}

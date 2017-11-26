@@ -1,0 +1,515 @@
+# list 1 - 10
+
+
+### list 1
+
+- pastel 彩色蜡笔；轻淡色彩；柔和的
+- husk 外壳；皮；去壳；去皮
+- pluralism 多元化
+- vagrant 乞丐；流浪汉
+- grievous 痛苦的；严重的
+- saucy 无礼的，莽撞的
+- disproportionate 不成比例的，不均衡的
+- nosy 爱打听的，爱管闲事的
+- stumble 绊倒；蹒跚；结巴；犯错误
+    - stumble across / upon 偶然发现
+- chaotic 混乱的；无秩序的
+- renown 名声；名誉
+- obliterate 消灭，毁掉
+- rancorous 充满仇恨的
+- mediate 调停，斡旋；间接的
+- solicit 恳求，征求
+- unravel 拆散，解体，弄清楚
+- unsubstantiated 未经证实的
+- intrepid 勇猛的，无畏的
+- nominee 被提名者，候选人
+- revere 尊敬，敬畏
+- secrete 分泌；隐匿，隐藏
+- aria 咏叹调
+- facilitate 使便利；使容易
+- reef 礁 coral reef 珊瑚礁
+- influx n. 流入；涌入
+- receptacle 插座；容器；花托
+- engulf 席卷；吞噬
+- bedrock 基础；基岩；基本原则
+- seep 渗出，渗漏
+- patriarch 家长；族长；酋长
+
+
+### list 2
+
+- dehydrate 脱水；去水
+- sinuous 蜿蜒的，曲折的
+- instinctual 本能的
+- uncanny 神秘的，不可思议的
+- preliterate 文字出现以前
+- certitude n. 确定，无疑
+- hustle 推搡；赶紧做；催促；兜售；忙绿；熙攘
+- homage 尊敬；崇敬
+- dramatize 使戏剧化；渲染；改编为戏剧
+- infatuate 使冲昏头脑；弄糊涂；使着迷
+- cynical 愤世嫉俗的；玩世不恭的
+- rustproof 防锈的；不锈的
+- sunlit 阳光照耀的；阳面的
+- microbe 微生物
+- homestead 家宅；家园；宅基
+- canyon 峡谷
+- microscopic 显微镜的；极小的；微观的
+- towering 高耸的；杰出的；激烈的
+- lush 茂盛的；豪华的；葱翠的；酒鬼
+- igneous 火成的；火的；似火的
+    - ignite 点火，点燃
+    - ignitable 可燃的
+    - ignition
+- salient 突出的；显著的；重要的
+- shrivel （使）枯萎；（使）干枯；（使）皱缩
+    - shiver 颤抖；shrive （听）忏悔；宽恕；shrink 收缩
+- syrup 糖浆
+- hemp 大麻
+- ethical 伦理的；道德的
+- weed 杂草；野草
+- dilate 使扩大；扩大；膨胀；详述
+- homing 自动寻向的
+- flagellum 鞭毛；鞭状体
+- intricate 错综复杂的
+- tournament 锦标赛 open tournament 公开赛
+- mighty 强大的；有力的；巨大的
+- inflammation 发炎；炎症；燃烧；激动
+    - inflammatory 炎症性的；煽动性的；激动的
+    - inflamed （使）发炎
+- mammoth 巨大的；庞大的；猛犸
+
+
+### list 3
+
+- muggy 闷热而潮湿的
+    - humid, moist
+- skyscraper 摩天大楼
+- pest 害虫
+- fauna 动物群；动物区系 flora 植物群；植物区系
+- mortality 死亡人数；死亡率
+- scrub 擦洗；刷洗；灌木丛
+- stain 污点；玷污
+- tout 兜售；招徕；吹捧；倒卖
+- intrigue n. 阴谋诡计；密谋策划 v. 密谋
+- connote 意味着；隐含
+    - connotative 内涵的；隐含的
+    - connotation 内涵；含蓄；暗示
+- secede 退出组织；脱离团体
+    - antecede 在...之前
+    - recede 衰弱，减弱
+    - accede 加入；继承；同意
+    - sedate 安静的；镇定的
+- disquiet 使烦恼；使不安 不安；忧虑；烦恼
+- bode 预示；是...的兆头
+- folkway 社会习俗
+    - folklore 民间传说
+- overrule 否定；否决
+    - overbearing 专横的；飞扬跋扈的
+    - overpower （以力量）征服；制胜
+- turmoil 混乱；动荡
+- amenable 顺从的；可受影响的；有责任的
+    - amenity 便利设施
+- nude 裸体的；裸体
+- perverse 任性的
+    - averse 反对的
+    - transverse 横向的
+    - inverse, reverse, disverse, adverse, converse, obverse
+- insulin 胰岛素
+- pertinent 中肯的；相关的；切题的
+- rebellious 反叛的；叛逆的
+- adorn 装饰；佩戴；使美观
+- magnitude 大小；重量；巨大；星级
+- utensil 用具；器具
+- kennel 狗舍
+- internship 实习；见习
+- polish 擦亮；抛光；润色
+- starch 淀粉
+- detest 嫌恶；憎恶；深恶
+- gigantic 巨大的；庞大的
+- diagonal 对角线；对角线的；斜的
+- absenteeism 旷工；旷课
+- digression 离题；脱轨
+- pesticide 杀虫剂
+
+
+### list 4
+
+- blend 混合；融合
+- fungus 霉菌；菌类；真菌
+- stout 肥胖的；粗壮的；坚定的
+- assent 同意，赞成
+- bizarre 离奇的，奇特的，奇怪的
+- conceit 自负，骄傲自大
+- husbandry 畜牧业，饲养业
+    - husbandman 农夫，百姓
+- abysmal 深不可测的；极坏的，糟糕的
+- tranquil 安静的，平静的，宁静的
+    - tranquilize 使安静，使平静
+    - tranquilizer 镇定剂，止痛药
+    - tranquility 心神镇定
+- swoop 突降，猛扑
+- mingle 使混乱，使联结，交际
+- interim 暂时的，临时的，期间的；过渡时期
+- laudable 应受赞扬的，值得赞美的
+- pretext 借口，托词
+- replica 复制品，仿制品
+- seige n. 围攻，封锁
+    - under seige 被围
+- lunge 猛冲，冲刺，扑
+- crude 未经加工的，简陋的，粗鲁的
+- gibe 嘲讽，嘲弄；相匹配
+- speckle 小斑点
+- beaver n. 海狸 v. 勤奋工作
+- sardonic 讥讽的，嘲笑的
+- nomadic 游牧的；流浪的
+- incessantly 不停地，不间断地
+- ultimatum 最后通牒
+- milieu 周围环境，背景
+- satiric 讽刺的，挖苦的
+- untamed 未被驯服的，难驾驭的；原始的
+    - tame v. 驯服，顺从 adj. 驯服的，顺从的，平淡的
+    - tameless 野性的，未驯服的
+- diffusion 扩散；传播
+- fray v.（使）磨损；（使）烦躁，紧张；n. 磨损处，吵闹，争吵
+- prolific 多产的，作品丰富的
+- crab v. 抱怨 n. 蟹；螃蟹
+- mushroom n. 蘑菇 v. 迅速生长
+- listless 没有活力的，没精打采的
+- stretch 伸展，延伸，持续
+- groom v. 打扮，梳理头发 n. 新郎，马夫
+- marsh 沼泽，湿地
+- foul 肮脏污臭的，令人不快的；使污秽，对...犯规；犯规
+- incentive 刺激，诱因，动机
+- puncture n. 刺穿，刺孔；v. 削弱，刺穿
+- corrosive adj. 腐蚀性的，起破坏作用的 n. 腐蚀性物品
+    - corrode, corrosion
+    - caustic 腐蚀性的
+- picky 挑剔的，吹毛求疵的
+- ratify 批准，认可
+- ideology 意识形态
+- oyster 牡蛎，蚝
+
+
+### list 5
+
+- proactive 积极主动的，先发制人的
+- posit 假定，假设
+- embellish 美化，装饰，渲染
+- weird 离奇的，古怪的，怪异的；命运，宿命
+- diverge 叉开，分歧，相异
+- infuriate 激怒，使狂怒
+- spear 矛，枪；用矛刺
+- repress 抑制，镇压，压抑
+- thrust 刺，戳
+- bestow 给予，赠予，授予
+- adventitious 偶然的，外来的，不定的
+- dissipate 驱散，消散，浪费，挥霍
+- cranial 头盖的，颅骨的
+- balk 畏缩不前的；犹豫；妨碍
+- consolidate 合并，统一，巩固
+- plump adj. 丰满的，肥胖的 v. （使）圆胖，鼓起 adv. 直接地
+- pave 铺路，铺设
+- pretentious 自命不凡的，自负的，矫饰的
+- barter 物物交换，以货易货
+- cue 提示，信号，暗号
+- tenant 房客，租户，出租
+- medal 奖章，勋章
+- inscribe 题写，铭刻，题名
+- flake 薄片，小片；使成薄片
+- jeopardize 危及，使处于危险境地
+- detergent 洗涤剂，洗衣粉，去垢剂
+- imprint 盖印，印刻，使铭记
+- bulk 巨大的体积，大量
+- mast 船桅，旗杆，天线杆
+- inanimate 无生命的
+- exhale 呼出，发出
+- plantation 耕地，种植园
+- penetrate 渗透，看穿，洞察
+- adhesive 粘性的，可黏着的
+
+
+### list 6
+
+- obsess 使困扰，使着迷
+- outrangeously 过分地，骇人地
+- mammal 哺乳动物
+- bare 赤裸的；秃的；空的，仅有的；v. 使露出
+- abortive 失败的；夭折的
+- catholic 普遍的，广泛的；天主教的
+- ambiguity 模棱两可，含义模糊，歧义
+    - ambiguous
+- retrospective 回顾的，回想的
+    - respective
+- contributory 有贡献的，促成的，促进的；贡献人，捐助者
+- strenuous 费力的，繁重的，艰苦的，发奋的
+    - laborious 需要劳动力的，费劲的
+- puff 吸，吹，喷；喘息；一缕；吹嘘
+- instill 灌输；渗透
+- avenge 复仇，报仇
+- meditate 沉思，冥想，考虑，仔细计划
+- gush 喷涌，滔滔不绝地说
+- predispose 使易接受；使易患病
+- languish v.衰弱，凋零，憔悴，受折磨
+- ravage 毁坏，破坏，劫掠，蹂躏
+- exodus 大批离去，成群撤离
+- backlighting 逆光，背景照明
+- exalt 赞扬，提升，加强
+- soluble 可溶的，可解决的
+- prodigious 巨大的，惊人的，奇异的
+    - prodigy 奇才，天才
+    - prodigal 挥霍的
+- typify 作为...的典型；代表，象征
+- imitation 模仿
+- propel 推进，推动，驱使
+- hoe n. 锄头；v. 锄草，锄地
+- stride 大步行走，跨一大步
+    - strive 奋斗
+    - strife 争吵
+    - strike 打击，罢工
+    - stripe 条纹
+- tunnel 隧道，地道；开凿隧道
+- friction 摩擦，不和，争执
+- wrinkle 皱纹；起皱纹，弄皱
+- plank 厚板，板条；政纲条目
+- eclecticism 折衷主义
+- piracy 海盗行为，侵权行为
+- deception 欺骗，骗局
+- blanket 毛毯；用毯子裹
+- dissenter 持不同意见者，持异议着
+- aroma 香味，芳香
+- embody 体现，使具体化，表达，包含
+
+
+### list 7
+
+- rhinoceros 犀牛
+- herald 使者，传令官，预示者；预报，标志
+- wax 蜡，石蜡；上蜡；增大；增强
+- cardinal 首要的；大红色的；红衣主教；基数
+    - cordial 热诚的，衷心的；兴奋剂；甘露酒，甜酒
+- organism 生物体，有机体，有机组织
+- refund 退还，偿还；退款，返还款
+- aerial 空气的，空中的；天线
+- lipid 脂质，脂类
+- charisma 超凡魅力，感召力
+- affable 谦恭有礼的，和蔼可亲的
+- disconcert 使慌张，使紧迫，使不安
+- induct 使正式就任，授予职位
+- wedge 楔子，楔形物；把...楔入，将...插入
+- cohesive 粘性的，有粘聚性的；统一的
+- culminate 到达...的顶点，达到高潮；告终
+- predation 掠夺行为
+- gloss 光亮；注释 v. 使有光泽，作注释
+- shear 剪（羊毛）；剪切
+- incredulous 怀疑的，不轻信的
+- puritanical 清教徒式的，极端拘谨的，道德极严格的
+- savage 野性的，凶猛的，荒野的；野蛮人，粗人；凶狠的攻击，激烈抨击
+- cider 苹果汁，苹果酒
+- barn 谷仓，牲口棚
+- uneven 不平坦的，不均匀的，参差不齐的
+- stingy 吝啬的，小气的
+- bargain 交易，便宜货；讨价还价
+- forestall 预先阻止，抢先一步
+- concave 凹的，凹面的
+- boast 自夸，夸耀
+- turnout 着装，装束；产量；清理；参与人
+- jolt 颠簸摇晃，使震惊；震摇，摇动
+- spiral 螺旋形，陡升或骤降；螺旋形的
+- vault 拱顶；墓穴；金库；v. 跳跃
+- mime 哑剧，默剧；表演哑剧
+- stratigraphy 地层学
+- impetus 冲力，推动力，刺激
+- lodge 传达室，小舍，门房；v. 存放，临时住宿
+- commentary 解说词，评论，实况报道
+- gorilla 大猩猩
+- incubate 孵化，培育，酝酿；潜伏
+- intriguing 引起兴趣的，引人入胜的；intrigue 的现在分词
+- sedimentary 沉淀的，沉淀性的
+- mason 石匠
+- preoccupation 入神；当务之急；心里总想的事物
+
+
+### list 8
+
+- communal 社区的，群体的，公有的
+- agile 敏捷的，灵活的
+    - fragile 脆弱的，易碎的
+    - prompt 迅速的，敏捷的
+    - nimble 敏捷的
+- competence 能力，胜任，本领
+- lettuce 生菜
+    - broccoli 花椰菜
+    - cabbage 卷心菜
+    - spinach 菠菜
+- apportion 分摊，分配
+- juvenile 少年的，未成年的；少年
+- delinquency （青少年的）犯罪
+- rigor n. 严密，严格，严酷
+    - rigorous 严密的，缜密的，严格的，枯燥的
+- infrared 红外线的；红外线 ultraviolet 紫外线的；紫外线
+- franchise 特许权，选举权，参政权，经销权；v. 赋予特权
+- grip n. 紧握，紧抓，吸引住；v. 紧握，掌握，控制
+    - grip 比 grasp 语气强
+    - grab 粗暴而急迫的抓住
+- ridiculous 荒谬的，可笑的
+- cactus 仙人掌
+- silica 二氧化硅，硅石 （silica is a compound of silicon.）
+- willful 任性的，故意的，蓄意的
+- refraction 折射，折光
+    - reflection 折射
+    - transmission 透射
+- fortuitous 偶然的，幸运的
+- propensity （性格上的）倾向，习性
+- Select the essence and discard the dross. 取其精华，去其糟粕
+- fable 寓言；传言；无稽之谈
+- confidant 知己
+    - confident 自信的
+    - confidential 机密的，秘密的；表示信任的；知心的
+- abate 减轻，减少，消除
+- dignify 使有尊严，使崇高，使显贵
+- feign 假装，装作
+- melodious 悦耳的，旋律优美的，音调优美的
+    - melodic 有旋律的，调子美妙的
+- negligent 疏忽的，粗心的，不在意的
+    - negligible 可忽略不计的
+- frail 易损的，易碎的；瘦弱的；不牢固的
+    - brittle 硬但易碎的
+- snide 讽刺的，刻毒的，卑鄙的；人造宝石，伪币
+- empiricism 经验主义的，经验论
+- falter n./v. 颤抖，支吾，摇晃，踌躇，疲软
+- lust 强烈的性欲，强烈的欲望；v. 对...有极强的性欲
+- stampede n. 蜂拥，狂奔；v. 惊跑，蜂拥
+- torpor 麻木，迟钝，萎靡
+- shed v. 流涌，脱落，抛弃，摆脱；n. 棚屋，小屋
+- hierarchy 层次体系，等级制度
+- deplete 耗尽，使衰竭
+- shirk 逃避，规避
+- dormant 休眠的，蛰伏的，暂停活动的
+    - dormancy 冬眠，蛰伏，休眠
+    - dormitory 宿舍
+    - hibernate 冬眠的 hibernation 冬眠
+- quasar 类星体
+- bolster 长枕，靠垫；支持，鼓励
+- tactic 战术，策略
+- rehabilitate 恢复，修复，改造
+- blizzard 暴风雪；大量
+- mold 模具，霉菌；塑造，发霉
+- fin 鳍，尾翼 shark fin 鱼翅
+- blush n./v.脸红，羞愧
+- pensive 沉思的，愁眉苦脸的
+- informant 信息提供人，告密者
+- proponent 支持者，拥护者，辩护者
+- narrate 叙述，给...作旁白
+- accredit 归于，委托，授权，信任
+- puddle 水坑，洼，胶泥
+- tragic 悲剧的
+    - tragedy 悲剧
+- concomitant 伴随的，同时发生的
+
+
+### list 9
+
+- motif 主题，主旨
+- parachute 降落伞；跳伞，用降落伞空投
+- chapel 小教堂
+    - attend chapel 做礼拜
+- pollinate 传粉，授粉
+- depict 描述，描绘
+- twig 嫩枝，细枝；觉察，明白
+- ablaze 着火的，闪耀的，激动的
+- vacate 腾出，空出，让出
+- feudal 封建的，封建制度的
+- sustenance 食物，营养，维持生计
+- charcoal 木炭
+- caterpillar 毛虫
+- rash 爆发；疹子；鲁莽的，轻率的
+- timber 木材
+- astute 机敏的，精明的
+- tavern 酒馆，客栈
+- conciliate 安抚，讨好，使息怒，调和
+- devout 虔诚的，衷心的，诚挚的
+- gait 步态，步法
+- gouge v. 凿，挖出；n. 弧口凿，半圆凿
+- candid 坦率的，坦诚的，偷拍的
+- subjugate 征服，压服，使服从
+- throng 人群，一大群，众多；v. 群集，挤满，涌进
+- corporeal 物质的，有形的，实体的，身体的
+- invasive 侵入的，侵袭的，扩散的，开刀的
+- stray 迷路，偏离，走失；离群者，走散者；走失的，离群的
+- contempt 蔑视，轻蔑
+- antonym 反义词
+- outrageous 粗暴的，无礼的，十分讨厌的，骇人的
+- corona 日冕
+- deciduous每年落叶的，定期脱落的，非永久性的
+- utilitarian 实用的，功利的；功利主义者
+- perceptive 观察敏锐的，有洞察力的
+- Aspire to inspire until I expire. 生命不息，奋斗不止
+- respire 呼吸
+    - aspire 渴望，立志
+    - conspire 同谋
+- ethnology 人类学
+- cellist 大提琴手
+- neutron 中子
+- terrain 地形，地势
+- saturation 饱和，饱和度，浸透
+- rehearse 排练，预演，复述
+
+
+### list 10
+
+- glue 胶水；v. 胶合，粘合，紧附于
+- planetary 行星的
+- lash n. 鞭子，鞭打，睫毛；v. 鞭打，摆动，抨击
+- repertory 全部剧目，剧目轮演
+- paradigm 范例，样式，典范
+- foliage 叶子，簇叶
+- quarry 采石场，猎物；挖出，苦心找出
+- improvise 即兴创作，即兴表演，临时准备
+- decay 腐烂，衰退
+- benevolent 慈善的，行善的
+- causal 原因的，关于因果的
+- unanimous 全体一致的，一致同意的，无异议的
+- ornamental 装饰性的，点缀的；装饰物
+- blunt 钝器；钝的；使变钝
+- credence 信任，可信性，真实性
+- fictitious 虚构的，虚假的
+- somber 忧郁的，阴沉的，阴暗的
+- doodle n./v. 乱写，乱画，涂鸦
+- blurt 脱口而出，说漏嘴
+- cradle 摇篮，发源地；轻轻抱着
+- deceitful 欺骗的，不诚实的
+- aftermath （不幸事件的）后果
+- diminution n. 减少；降低；缩小
+- metaphor 隐喻，比喻，象征
+- tropic 热带，回归线；热带的
+- disrupt 使混乱，使中断，扰乱
+- exalted 高位的，高尚的，欣喜的；v. 赞扬，提升，加强
+- octopus 章鱼
+- ambience 气氛，情调
+- revitalize 使新生，使复兴
+- onslaught n. 猛攻，冲击，突击
+- arid 干旱的，贫瘠的，枯燥无趣的
+- demolish 毁坏，拆除，推翻
+    - embellish 美化
+    - polish 磨光
+    - abolish 废除
+- nicotine 尼古丁
+- thrifty 节俭的，节约的
+- trivial 不重要的，琐碎的，微不足道的
+    - put the trivial above the importance 本末倒置
+- staggering 令人惊愕的，难以置信的；stagger v. 蹒跚，犹豫
+- vertebrate 有脊椎的；脊椎动物
+- stiff 硬直的，僵硬的
+- insanity 精神错乱，精神失常，疯狂
+    - insane 疯狂的，精神病的，极愚蠢的
+    - sane 健全的，理智的，神志正常的
+- burgeon 发芽，萌芽，成长
+
+
+------
+
+
+## Review
+
+-

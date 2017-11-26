@@ -1,0 +1,338 @@
+# Review of CET-6
+
+- **scarce**: If something is scarce, there is not enough of it.
+    - **scarcely**: You use scarcely to emphasize that something is only just true or only just the case.
+    - **scarcity**: If there is a scarcity of something, there is not enough of it for the people who need it or want it.
+- **clause**: A clause is a section of a legal document.
+- **harsh**:
+    - Harsh climates or conditions are very difficult for people, animals, and plants to live in.
+    - Harsh actions or speech are unkind and show no understanding or sympathy.
+    - Something that is harsh is so hard, bright, or rough that it seems unpleasant or harmful.
+    - Harsh voices and sounds are ones that are rough and unpleasant to listen to.
+    - If you talk about harsh realities or facts, or the harsh truth, you are emphasizing that they are true or real, although they are unpleasant and people try to avoid thinking about them.
+- **intense**: Intense is used to describe something that is very great or extreme in strength or degree.
+    - **intensely**
+    - **intensity**
+    - **intensify**: If you intensify something or if it intensifies, it becomes greater in strength, amount, or degree.
+- **envisage**: If you envisage something, you imagine that it is true, real, or likely to happen.
+- **prudent**: Someone who is prudent is sensible and careful.
+- **debris**: Debris is pieces from something that has been destroyed or pieces of rubbish or unwanted material that are spread around.
+- **grim**:
+    - A situation or piece of information that is grim is unpleasant, depressing, and difficult to accept.
+    - A place that is grim is unattractive and depressing in appearance.
+    - If a person or their behaviour is grim, they are very serious, usually because they are worried about something.
+    - If you say that something is grim, you think that it is very bad, ugly, or depressing.
+- **rigorous**:
+    - A test, system, or procedure that is rigorous is very thorough and strict.
+    - If someone is rigorous in the way that they do something, they are very careful and thorough.
+- **cumulative**: If a series of events have a cumulative effect, each event makes the effect greater.
+- **breach**:
+    - If you breach an agreement, a law, or a promise, you break it.
+    - A breach of an agreement, a law, or a promise is an act of breaking it.
+    - A breach in a relationship is a serious disagreement which often results in the relationship ending.
+    - If someone or something breaches a barrier, they make an opening in it, usually leaving it weakened or destroyed.
+    - If you breach someone's security or their defences, you manage to get through and attack an area that is heavily guarded and protected.
+- **bleak**: If a situation is bleak, it is bad, and seems unlikely to improve.
+- **insurgent**: Insurgents are people who are fighting against the government or army of their own country.
+    - **insurgency**
+- **layman**: A layman is a person who is not trained, qualified, or experienced in a particular subject or activity.
+- **exotic**: Something that is exotic is unusual and interesting, usually because it comes from or is related to a distant country.
+- **irritate**:
+    - If something irritates you, it keeps annoying you.
+    - If something irritates a part of your body, it causes it to itch or become sore.
+- **gamble**
+- **presume**:
+    - If you presume that something is the case, you think that it is the case, although you are not certain.
+    - If you say that someone presumes to do something, you mean that they do it even though they have no right to do it.
+    - If an idea, theory, or plan presumes certain facts, it regards them as true so that they can be used as a basis for further ideas and theories.
+- **vicious**:
+    - A vicious person or a vicious blow is violent and cruel.
+    - A vicious remark is cruel and intended to upset someone.
+- **refute**:
+    - If you refute an argument, accusation, or theory, you prove that it is wrong or untrue.
+    - If you refute an argument or accusation, you say that it is not true.
+- **affiliate**:
+    - An affiliate is an organization which is officially connected with another, larger organization or is a member of it.
+    - If an organization affiliates to or with another larger organization, it forms a close connection with the larger organization or becomes a member of it.
+    - If a professional person such as a lawyer or doctor affiliates with an organization, they become officially connected with that organization.
+- **punctuate**:
+    - If an activity or situation is punctuated by particular things, it is interrupted by them at intervals.
+    - give emphasis to
+- **predecessor**:
+    - Your predecessor is the person who had your job before you.
+    - The predecessor of an object or machine is the object or machine that came before it in a sequence or process of development.
+- **render**:
+    - You can use render with an adjective that describes a particular state to say that someone or something is changed into that state. For example, if someone or something makes a thing harmless, you can say that they render it harmless.
+    - If you render someone help or service, you help them.
+    - When a jury or authority renders a verdict, decision, or response, they announce it.
+    - To render something in a particular language or in a particular way means to translate it into that language or in that way.
+    - To render a wall means to cover it with a layer of plaster or cement, usually in order to protect it.
+- **scramble**:
+    - If you scramble over rocks or up a hill, you move quickly over them or up it using your hands to help you.
+    - If you scramble to a different place or position, you move there in a hurried, awkward way.
+    - If a number of people scramble for something, they compete energetically with each other for it.
+    - If you scramble eggs, you break them, mix them together and then heat and stir the mixture in a pan.
+    - If a device scrambles a radio or telephone message, it interferes with the sound so that the message can only be understood by someone with special equipment.
+    - **scrambled**
+- **creep**
+- **baffle**: If something baffles you, you cannot understand it or explain it.
+- **bizarre**: Something that is bizarre is very odd and strange.
+- **brink**: If you are on the brink of something, usually something important, terrible, or exciting, you are just about to do it or experience it.
+- **cereal**:
+    - Cereal or breakfast cereal is a food made from grain. It is mixed with milk and eaten for breakfast.
+    - Cereals are plants such as wheat, corn, or rice that produce grain.
+- **comply**: If someone or something complies with an order or set of rules, they are in accordance with what is required or expected.
+- **repel**:
+    - When an army repels an attack, they successfully fight and drive back soldiers from another army who have attacked them.
+    - When a magnetic pole repels another magnetic pole, it gives out a force that pushes the other pole away. You can also say that two magnetic poles repel each other or that they repel.
+    - If something repels you, you find it horrible and disgusting.
+- **detain**:
+    - When people such as the police detain someone, they keep them in a place under their control.
+    - To detain someone means to delay them, for example by talking to them.
+- **retain**:
+    - To retain something means to continue to have that thing.
+    - If you retain a lawyer, you pay him or her a fee to make sure that he or she will represent you when your case comes before the court.
+- **paralyse**:
+    - If someone is paralysed by an accident or an illness, they have no feeling in their body, or in part of their body, and are unable to move.
+    - If a person, place, or organization is paralysed by something, they become unable to act or function properly.
+- **shuttle**:
+    - A shuttle is the same as a space shuttle.
+    - A shuttle is a plane, bus, or train which makes frequent journeys between two places.
+    - If someone or something shuttles or is shuttled from one place to another place, they frequently go from one place to the other.
+    - A shuttle is a piece of equipment used in weaving. It takes a thread backwards and forwards over the other threads in order to make a piece of cloth.
+- **locomotive**: A locomotive is a large vehicle that pulls a railway train.
+- **endorse**:
+    - If you endorse someone or something, you say publicly that you support or approve of them.
+    - If someone's driving licence is endorsed, an official record is made on it that they have been found guilty of a driving offence.
+    - When you endorse a cheque, you write your name on the back of it so that it can be paid into someone's bank account.
+    - If you endorse a product or company, you appear in advertisements for it.
+- **embark**:
+    - If you embark on something new, difficult, or exciting, you start doing it.
+    - When someone embarks on a ship, they go on board before the start of a journey.
+- **frantic**:
+    - If you are frantic, you are behaving in a wild and uncontrolled way because you are frightened or worried.
+    - If an activity is frantic, things are done quickly and in an energetic but disorganized way, because there is very little time.
+- **dismiss**:
+    - If you dismiss something, you decide or say that it is not important enough for you to think about or consider.
+    - If you dismiss something from your mind, you stop thinking about it.
+    - When an employer dismisses an employee, the employer tells the employee that they are no longer needed to do the job that they have been doing.
+    - If you are dismissed by someone in authority, they tell you that you can go away from them.
+    - When a judge dismisses a case against someone, he or she formally states that there is no need for a trial, usually because there is not enough evidence for the case to continue.
+- **intrinsic**: If something has intrinsic value or intrinsic interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things.
+- **lubricate**:
+    - If something has intrinsic value or intrinsic interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things.
+    - If something has intrinsic value or intrinsic interest, it is valuable or interesting because of its basic nature or character, and not because of its connection with other things.
+- **coordinate**:
+    - If you coordinate an activity, you organize the various people and things involved in it.
+    - If you coordinate the different parts of your body, you make them work together efficiently to perform particular movements.
+    - If you coordinate clothes or furnishings that are used together, or if they coordinate, they are similar in some way and look nice together.
+    - The coordinates of a point on a map or graph are the two sets of numbers or letters that you need in order to find that point.
+- **subordinate**:
+    - If someone is your subordinate, they have a less important position than you in the organization that you both work for.
+    - Someone who is subordinate to you has a less important position than you and has to obey you.
+    - Something that is subordinate to something else is less important than the other thing.
+    - If you subordinate something to another thing, you regard it or treat it as less important than the other thing.
+- **virtuous**:
+    - A virtuous person behaves in a moral and correct way.
+    - If you describe someone as virtuous, you mean that they have done what they ought to do and feel very pleased with themselves, perhaps too pleased.
+- **pledge**:
+    - When someone makes a pledge, they make a serious promise that they will do something.
+    - When someone pledges to do something, they promise in a serious way to do it. When they pledge something, they promise to give it.
+    - If you pledge a sum of money to an organization or activity, you promise to pay that amount of money to it at a particular time or over a particular period.
+    - If you pledge yourself to something, you commit yourself to following a particular course of action or to supporting a particular person, group, or idea.
+    - If you pledge something such as a valuable possession or a sum of money, you leave it with someone as a guarantee that you will repay money that you have borrowed.
+- **reproach**:
+    - If you reproach someone, you say or show that you are disappointed, upset, or angry because they have done something wrong.
+    - If you look at or speak to someone with reproach, you show or say that you are disappointed, upset, or angry because they have done something wrong.
+    - If you reproach yourself, you think with regret about something you have done wrong.
+    - If you consider someone's actions or behaviour to be a reproach to a group of people, you consider them to be harmful or insulting to that group.
+- **sabotage**:
+    - If a machine, railway line, or bridge is sabotaged, it is deliberately damaged or destroyed, for example in a war or as a protest.
+    - If someone sabotages a plan or a meeting, they deliberately prevent it from being successful.
+- **refund**:
+    - A refund is a sum of money which is returned to you, for example because you have paid too much or because you have returned goods to a shop.
+    - If someone refunds your money, they return it to you, for example because you have paid too much or because you have returned goods to a shop.
+- **convoke**: to call (a meeting, assembly, etc) together; summon
+- **diplomatic**:
+    - Diplomatic means relating to diplomacy and diplomats.
+    - Someone who is diplomatic is able to be careful to say or do things without offending people.
+    - **diplomacy**
+    - **diplomat**
+- **cohesive**: Something that is cohesive consists of parts that fit together well and form a united whole.
+- **emancipate**: If people are emancipated, they are freed from unpleasant or unfair social, political, or legal restrictions.
+- **manoeuvre**:
+    - If you manoeuvre something into or out of an awkward position, you skilfully move it there.
+    - If you manoeuvre a situation, you change it in a clever and skilful way so that you can benefit from it.
+    - Military manoeuvres are training exercises which involve the movement of soldiers and equipment over a large area.
+- **commend**:
+    - If you commend someone or something, you praise them formally.
+    - If someone commends a person or thing to you, they tell you that you will find them good or useful.
+    - If something commends itself to you, you approve of it.
+- **sturdy**: Someone or something that is sturdy looks strong and is unlikely to be easily injured or damaged.
+- **vicinity**: If something is in the vicinity of a particular place, it is near it.
+- **crisp**
+- **marvelous**: If you describe someone or something as marvelous, you are emphasizing that they are very good.
+- **jeopardize**: To jeopardize a situation or activity means to do something that may destroy it or cause it to fail.
+- **reconcile**:
+    - If you reconcile two beliefs, facts, or demands that seem to be opposed or completely different, you find a way in which they can both be true or both be successful.
+    - If you are reconciled with someone, you become friendly with them again after a quarrel or disagreement.
+    - If you reconcile two people, you make them become friends again after a quarrel or disagreement.
+    - If you reconcile yourself to an unpleasant situation, you accept it, although it does not make you happy to do so.
+- **speculate**:
+    - If you speculate about something, you make guesses about its nature or identity, or about what might happen.
+    - If someone speculates financially, they buy property, stocks, or shares, in the hope of being able to sell them again at a higher price and make a profit.
+- **conspicuous**: If someone or something is conspicuous, people can see or notice them very easily.
+- **preclude**:
+    - If something precludes an event or action, it prevents the event or action from happening.
+    - If something precludes you from doing something or going somewhere, it prevents you from doing it or going there.
+- **petty**:
+    - You can use petty to describe things such as problems, rules, or arguments which you think are unimportant or relate to unimportant things.
+    - If you describe someone's behaviour as petty, you mean that they care too much about small, unimportant things and perhaps that they are unnecessarily unkind.
+    - Petty is used of people or actions that are less important, serious, or great than others.
+- **secular**: You use secular to describe things that have no connection with religion.
+- **deplore**: If you say that you deplore something, you think it is very wrong or immoral.
+- **endow**:
+    - You say that someone is endowed with a particular desirable ability, characteristic, or possession when they have it by chance or by birth.
+    - If you endow something with a particular feature or quality, you provide it with that feature or quality.
+    - If someone endows an institution, scholarship, or project, they provide a large amount of money which will produce the income needed to pay for it.
+- **subside**:
+    - If a feeling or noise subsides, it becomes less strong or loud.
+    - If fighting subsides, it becomes less intense or general.
+    - If the ground or a building is subsiding, it is very slowly sinking to a lower level.
+    - If a level of water, especially flood water, subsides, it goes down.
+- **pendulum**:
+    - The pendulum of a clock is a rod with a weight at the end which swings from side to side in order to make the clock work.
+- **perpendicular**:
+    - A perpendicular line or surface points straight up, rather than being sloping or horizontal.
+    - If one thing is perpendicular to another, it is at an angle of 90 degrees to it.
+- **ventilate**:
+    - If you ventilate a room or building, you allow fresh air to get into it.
+    - If you ventilate your ideas or feelings, you talk about them or express them freely in front of other people.
+- **prefess**:
+    - If you profess to do or have something, you claim that you do it or have it, often when you do not.
+    - If you profess a feeling, opinion, or belief, you express it.
+- **persecute**:
+    - If someone is persecuted, they are treated cruelly and unfairly, often because of their race or beliefs.
+    - If you say that someone is persecuting you, you mean that they are deliberately making your life difficult.
+- **prosecute**:
+    - If the authorities prosecute someone, they charge them with a crime and put them on trial.
+    - When a lawyer prosecutes a case, he or she tries to prove that the person who is on trial is guilty.
+- **resent**: If you resent someone or something, you feel bitter and angry about them.
+- **sensuous**:
+    - Something that is sensuous gives pleasure to the mind or body through the senses.
+    - Someone or something that is sensuous shows or suggests a great liking for sexual pleasure.
+- **consensus**: A consensus is general agreement among a group of people.
+- **penetrate**:
+    - If something or someone penetrates a physical object or an area, they succeed in getting into it or passing through it.
+    - If someone penetrates an organization, a group, or a profession, they succeed in entering it although it is difficult to do so.
+    - If someone penetrates an enemy group or a rival organization, they succeed in joining it in order to get information or cause trouble.
+    - If a company or country penetrates a market or area, they succeed in selling their products there.
+    - If you penetrate something that is difficult to understand, you succeed in understanding it.
+- **prune**:
+    - A prune is a dried plum.
+    - When you prune a tree or bush, you cut off some of the branches so that it will grow better the next year.
+    - If you prune something, you cut out all the parts that you do not need.
+- **narrative**:
+    - A narrative is a story or an account of a series of events.
+    - Narrative is the description of a series of events, usually in a novel.
+- **chap**
+- **grease**
+- **solitary**:
+    - A person or animal that is solitary spends a lot of time alone.
+    - A solitary activity is one that you do alone.
+    - A solitary person or object is alone, with no others near them.
+    - Solitary is the same as solitary confinement.
+- **pretext**: A pretext is a reason which you pretend has caused you to do something.
+- **fabricate**:
+    - If someone fabricates information, they invent it in order to deceive people.
+    - If something is fabricated from different materials or substances, it is made out of those materials or substances.
+- **retract**:
+    - If you retract something that you have said or written, you say that you did not mean it.
+    - When a part of a machine or a part of a person's body retracts or is retracted, it moves inwards or becomes shorter.
+- **tract**:
+    - A tract of land is a very large area of land.
+    - A tract is a short article expressing a strong opinion on a religious, moral, or political subject in order to try to influence people's attitudes.
+    - A tract is a system of organs and tubes in an animal's or person's body that has a particular function, especially the function of processing a substance in the body.
+- **taboo**: If there is a taboo on a subject or activity, it is a social custom to avoid doing that activity or talking about that subject, because people find them embarrassing or offensive.
+- **veteran**:
+    - A veteran is someone who has served in the armed forces of their country, especially during a war.
+    - You use veteran to refer to someone who has been involved in a particular activity for a long time.
+- **contrive**:
+    - If you contrive an event or situation, you succeed in making it happen, often by tricking someone.
+    - If you contrive something such as a device or piece of equipment, you invent and construct it in a clever or unusual way.
+    - If you contrive to do something difficult, you succeed in doing it.
+    - When someone has done something dishonestly, you can say that they have contrived to do it.
+- **heave**:
+    - If you heave something heavy or difficult to move somewhere, you push, pull, or lift it using a lot of effort.
+    - If something heaves, it moves up and down with large regular movements.
+    - If you heave, or if your stomach heaves, you vomit or feel sick.
+    - If you heave a sigh, you give a big sigh.
+    - If a place is heaving or if it is heaving with people, it is full of people.
+- **graze**
+- **perish**:
+    - If people or animals perish, they die as a result of very harsh conditions or as the result of an accident.
+    - If something perishes, it comes to an end or is destroyed for ever.
+    - If a substance or material perishes, it starts to fall to pieces and becomes useless.
+- **preface**:
+    - A preface is an introduction at the beginning of a book, which explains what the book is about or why it was written.
+    - If you preface an action or speech with something else, you do or say this other thing first.
+- **malicious**: If you describe someone's words or actions as malicious, you mean that they are intended to harm people or their reputation, or cause them embarrassment and upset.
+- **mute**:
+    - Someone who is mute is silent for a particular reason and does not speak.
+    - Someone who is mute is unable to speak.
+    - If someone mutes something such as their feelings or their activities, they reduce the strength or intensity of them.
+    - If you mute a noise or sound, you lower its volume or make it less distinct.
+- **savage**:
+    - Someone or something that is savage is extremely cruel, violent, and uncontrolled.
+    - If you refer to people as savages, you dislike them because you think that they do not have an advanced society and are violent.
+    - If someone is savaged by a dog or other animal, the animal attacks them violently.
+    - If someone or something that they have done is savaged by another person, that person criticizes them severely.
+- **wretched**
+- **toss**
+- **exempt**:
+    - If someone or something is exempt from a particular rule, duty, or obligation, they do not have to follow it or do it.
+    - To exempt a person or thing from a particular rule, duty, or obligation means to state officially that they are not bound or affected by it.
+- **wade**:
+    - If you wade through something that makes it difficult to walk, usually water or mud, you walk through it.
+    - To wade through a lot of documents or pieces of information means to spend a lot of time and effort reading them or dealing with them.
+- **perceive**:
+    - If you perceive something, you see, notice, or realize it, especially when it is not obvious.
+    - If you perceive someone or something as doing or being a particular thing, it is your opinion that they do this thing or that they are that thing.
+    - **perception**
+- **conceit**
+    - **conceited**
+- **cordial**
+- **prone**
+- **swamp**
+- **venerable**
+- **vanity**
+- **evacuate**
+- **inflict**
+- **rupture**
+- **scrape**
+- **scrub**
+- **incentive**
+- **relish**
+- **lapse**
+- **majesty**
+    - **majestic**
+- **plight**
+- **implicit**
+- **perplex**
+- **deploy**
+- **discrete**
+- **wrench**
+- **cluminate**
+- **interrogation**
+- **impart**
+- **monetary**
+- **propagate**
+- **reciprocal**
+- **splash**
+- **wreck**
+- **excerpt**
+- **hail**
+- **derive**
+- **medieval**
+- **midiate**
+- **parasite**

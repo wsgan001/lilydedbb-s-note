@@ -1,0 +1,150 @@
+# TOFEL 词以类记 —— 法律
+
+- penal 受惩罚的，刑事的
+    - Penal means relating to the punishment of criminals.
+    - A penal institution or colony is one where criminals are kept as punishment.
+    - penalty
+- illicit
+    - unlawful, illegal
+- unruly
+    - disorderly
+- illegitimate
+- default v. 不履行，拖欠
+- violate, violation
+- infringe
+- encroach 蚕食，侵占
+    - If one thing encroaches on another, the first thing spreads or becomes stronger, and slowly begins to restrict the power, range, or effectiveness of the second thing.
+    - If something encroaches on a place, it spreads and takes over more and more of that place.
+- intrude 闯入；侵入；侵扰
+- bound 负有义务的
+- compulsory
+- obligatory
+    - oblige
+- responsible
+- domineering 专权的；跋扈的；专横的；盛气凌人的 *(If you say that someone is domineering, you disapprove of them because you feel that they try to control other people without any consideration for their feelings or opinions.)*
+- tyrannical
+    - If you describe someone as tyrannical, you mean that they are severe or unfair towards the people that they have authority over.
+    - If you describe a government or organization as tyrannical, you mean that it acts without considering the wishes of its people and treats them cruelly or unfairly.
+- dictatorial 独裁的，专政的
+    - Dictatorial means controlled or used by a dictator.
+    - If you describe someone's behavior as dictatorial, you do not like the fact that they tell people what to do in a forceful and unfair way.
+    - dictator 独裁者
+- mandatory 命令的
+- licensed
+    - permissive
+- heirship
+- jurisdiction 司法权
+- arbitration 仲裁，调节 *(Arbitration is the judging of a dispute between people or groups by someone who is not involved.)*
+- fine 罚金
+- confiscate 没收，充公 *(If you confiscate something from someone, you take it away from them, usually as a punishment.)*
+- convict
+    - penalize, prove
+- verdict 判决
+    - In a court of law, the verdict is the decision that is given by the jury or judge at the end of a trial.
+    - Someone's verdict on something is their opinion of it, after thinking about it or investigating it.
+    - decision, judgment
+- indemnity 赔偿
+    - If something provides indemnity, it provides insurance or protection against damage or loss.
+    - An indemnity is an amount of money paid to someone because of some damage or loss they have suffered.
+- imprisonment
+- invalidate
+- captivity
+- trial
+- detain
+- extenuate 减轻；低估；为…找借口；使人原谅
+- saddle 使负担
+    - burden, load
+- court 法庭
+- bar 法院
+- authorize
+- empower 授权
+- plea 恳求
+    - appeal
+- oath
+- pledge 誓言；使发誓
+    - promise, vow
+- plaintiff 原告
+- plead 抗辩；恳求
+    - argue, protest, beg
+- flee 逃避，逃离
+- defend
+- proscribe 禁止
+    - forbid, ban, forestall
+- abstinence 禁欲；节制*(Abstinence is the practice of abstaining from something such as alcoholic drink or sex, often for health or religious reasons.)*
+    - abstain 戒绝
+- ban
+- veto n. 否决；否决权 v. 否决；禁止
+    - If someone in authority vetoes something, they forbid it, or stop it being put into action.
+    - Veto is the right that someone in authority has to forbid something.
+    - negate n. 对立面；反面 vt. 否定；取消；使无效 vi. 否定；否认；无效
+- revise
+- verify
+    - confirm, substantiate 证实；使实体化
+- deserve
+- stipulate 规定；保证；约定 *(If you stipulate a condition or stipulate that something must be done, you say clearly that it must be done.)*
+- testify
+    - give evidence, verify
+- testimony 证言
+    - affirmation, evidence
+- justify
+- substantiate 证实；使实体化 *(To substantiate a statement or a story means to supply evidence which proves that it is true.)*
+    - corroborate, verify
+- confirm
+- affirm
+    - assert
+- assure
+    - guarantee, pledge
+- evidence
+- follow
+    - abide by, obey
+- observe （遵守）
+- observance （遵守）
+- abide
+- accuse
+    - charge
+    - accusation
+- complaint
+- impeach 弹劾；归咎；怀疑 *(If a court or a group in authority impeaches a president or other senior official, it charges them with committing a crime which makes them unfit for office.)*
+    - accuse
+- indictment 起诉书；控告
+    - If you say that one thing is an indictment of another thing, you mean that it shows how bad the other thing is.
+    - An indictment is a formal accusation that someone has committed a crime.
+- incriminate 控告，使负罪
+- prosecute 起诉，检举
+    - accuse, charge
+- denounce 告发
+    - If you denounce a person or an action, you criticize them severely and publicly because you feel strongly that they are wrong or evil.
+    - If you denounce someone who has broken a rule or law, you report them to the authorities.
+- lawsuit 诉讼
+- query
+- interrogate 审问；询问
+- impunity 不受惩罚；免罚
+- exempt
+- condone 宽恕；赦免 *(If someone condones behaviour that is morally wrong, they accept it and allow it to happen.)*
+- liberate 释放
+- remit 赦免
+- release
+- absolve 赦免；解除（责任等）*(If a report or investigation absolves someone from blame or responsibility, it formally states that he or she is not guilty or is not to blame.)*
+- acquit 无罪释放；宣告无罪
+    - If someone is acquitted of a crime in a court of law, they are formally declared not to have committed the crime.
+    - If you acquit yourself well or admirably in a particular situation, other people feel that you have behaved well or admirably.
+    - exonerate, vindicate
+- abolish
+    - abandon, annul, terminate
+- term
+- clause
+- bill 法案
+- constitution
+- decree 法令，规定 v 颁布
+    - regulation, order
+- legislate 立法 *(When a government or state legislates, it passes a new law.)*
+    - legislation
+- legalize 合法化，法律认可
+- prescribe 指示，规定
+    - dictate
+- set
+- credential 凭证
+    - reference, certificate
+- standard
+- enact
+    - impersonate

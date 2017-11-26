@@ -1,0 +1,25 @@
+# TOFEL 词以类记 —— 教育
+
+- didactic 说教的；教诲的
+    - Something that is didactic is intended to teach people something, especially a moral lesson.
+    - Someone who is didactic tells people things rather than letting them find things out or discussing things.
+- leading
+- sermon 说教
+- initiate
+- instill 灌输 *(If you instill an idea or feeling in someone, especially over a period of time, you make them think it or feel it.)*
+- infuse 灌输；使充满；浸渍
+    - To infuse a quality into someone or something, or to infuse them with a quality, means to fill them with it.
+    - If a quality infuses something, every part of that thing has that quality.
+    - If you infuse things such as tea leaves or herbs, or allow them to infuse, you put them in hot water for some time so that the water absorbs their flavor. You can also infuse things in other liquids.
+- impart 给予；传授
+    - If you impart information to people, you tell it to them.
+    - To impart a particular quality to something means to give it that quality.
+- instruct
+- instructive
+- enlighten 启发
+- edify 熏陶；启发；教诲；教化
+- lead
+- direct
+- conduct
+- curriculum
+- discipline

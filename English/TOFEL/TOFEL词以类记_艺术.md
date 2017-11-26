@@ -1,0 +1,41 @@
+# TOFEL 词以类记 —— 艺术
+
+- picturesque 如画般的，生动的
+    - A picturesque place is attractive and interesting, and has no ugly modern buildings.
+    - Picturesque words and expressions are unusual or poetic.
+- vivid
+- sculpture
+    - carving
+    - engraving 雕刻；雕刻术；雕刻品
+- statue
+- draw
+- gallery
+- portrait
+- mold 塑造
+    - shape
+- embroider 刺绣；装饰；镶边
+    - If something such as clothing or cloth is embroidered with a design, the design is stitched into it.
+    - If you embroider a story or account of something, or if you embroider on it, you try to make it more interesting by adding details which may be untrue.
+- tragedy 悲剧
+- opera
+- enact
+    - impersonate
+- pose
+- rehearse 排练；预演
+    - When people rehearse a play, dance, or piece of music, they practice it in order to prepare for a performance.
+    - If you rehearse something that you are going to say or do, you silently practice it by imagining that you are saying or doing it.
+    - If you rehearse something, you repeat it in detail.
+    - prepare, try out
+- prelude 序幕
+    - You can describe an event as a prelude to a more important event when it happens before it and acts as an introduction to it.
+    - A prelude is a short piece of music for the piano or organ.
+    - preface
+- character
+- role
+- design
+- profile
+    - outline, contour 轮廓；等高线；概要, sketch
+- renaissance 文艺复兴
+- conjure 用魔术变出 *(If you conjure something out of nothing, you make it appear as if by magic.)*
+- aesthetic 审美的，美学的
+- romantic

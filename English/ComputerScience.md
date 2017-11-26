@@ -1,0 +1,189 @@
+## 计算机科学 (Computer Science)
+
+- classification 分类
+- regression 回归
+- multiparadigm programming language 多重范型编程语言
+- pseudocode 伪代码
+- fallback message 回退消息
+- object-oriented 面向对象
+- typography 排版
+- data forwarding 数据前送
+- decode 指令解码
+- embedded chips 嵌入式
+- cell 单元
+- command 指令，命令
+- console 控制台
+- compiler 编译程序
+- zoom in 放大
+- zoom out 缩小
+- browser 浏览器
+- firewall 防火墙
+- gateway 网关
+- batch parameters 批处理参数
+- characterset 字符集
+- case sensitive 大小写敏感
+- disk 磁盘
+- diskette 软盘
+- procedure 程序, 手续, 步骤; 常规的做法
+- prompt 提示; 提示的内容
+- macro 宏
+- attribute 属性
+- subset 子集
+- toggle 触发器
+- profile n.侧面，轮廓；人物简介 vt.描…的轮廓
+- assign 分配
+- abbreviate 缩写
+- delimiter	定界符, 分隔符
+- assembler 汇编程序
+- cybernetics 控制论
+- emitter 发射器，触发器
+- interpret 解释
+- matrix 矩阵
+- monitor 显示器, 监视器 v.监听
+- overflow 溢出
+- transducer 转换器, 传感器
+- arithmetic 算术
+- protocol 协议
+- terminology 术语
+- iterative 迭代的
+- directory 目录
+- convert 使转变, 倒置
+- suppress 禁止
+- exceed 超出界限
+- dynamic 动态的
+- priority 优先级
+- succession 继承
+- alignment 队列，对齐
+- administrator 管理员
+- traverse 遍历
+- overflow 溢出
+- snapshot 快照，印象
+- syntax 语法；句法
+- alphanumeric 字母数字的
+- analog n. (=analogue)类似(模拟量) adj. 类比的, 模拟的
+- batch n. 一组, 批, 分批 vi. 分批处理
+- digit 数字，位数，指头
+- digital 数字的,数码的,电子的,手指的
+- storage 存储
+- buffer 缓冲，缓冲区
+- instruction 指令，说明
+- circuit n. 电路,一圈,巡回 vt. &vi. 巡回
+- coder 编码器
+- encode 编码, 译码
+- erase 抹去,擦掉,擦除
+- inquiry 打听, 询问, 调查, 查问
+- integrate 使整合
+- integrated 整合的,综合的
+- linkage 连合, 连锁, 结合
+- octet 八位位组
+- peripheral adj. 不重要的,外围的 n. 外围设备
+- sentinel n. 哨兵(标记,传送) vt 放哨(守卫)
+- sequence	n. 序列, 顺序 vt. 安排顺序
+- sequential adj. 连续的(序贯的)
+- simulator 模拟程序
+- simulation n. 模拟,仿真,赝品
+- symbol n. 符号, 标志, 象征
+- symbolic n. 代号 adj. 象征的, 符号的
+- tabulator	n. 制表者, 制表机, 跳格键
+- timer 计时器
+- track	n. 轨道, 踪迹 v. 跟踪, 追踪
+- environmental 环境的
+- mega 兆, 百万
+- giga pref. 千兆
+- byte n. 字节, 8位元组
+- chunk 数据块
+- motif 主题, 意念, 动机
+- semantic 语义
+- instance 实例
+- invoke 调用
+- procedural 程序的
+- demonstrate 示范, 演示, 证明
+- assortment 分类, 配合
+- archive n. 档案,档案馆 vt. 存档
+- navigate vi. 航行,驾驶,操纵 vt. 航行,驾驶
+- tutorial 个别指导
+- comma 逗号
+- chart 图标
+- initiate 初始化，开始，创始人
+- emulation 模仿
+- dump 导出
+- preceding 在前的,在先的
+- executable 实行的,执行的
+- intervene 介入
+- quotation 引语
+- ellipsis 省略
+- parallel 平行的,相同的,类似的
+- implement 实现
+- implementation 实现
+- ampersand  和，＆(and 的符号）
+- synchronization n.同步化
+- asynchronous 异步的
+- fragment n. 碎片
+- primary n. 最主要者 adj. 主要的, 初期的, 根本的
+- contrast n.对比，对照；差异
+- deflate 压缩
+- addons 插件
+- fulfill 履行；实现；满足
+- paradigm 范例，范式
+- bidirectional 双向的
+- upgrade 升级，提升
+- frame 帧
+- unshift vi. 松开打字机或键盘的字型变换键
+- payload 净负荷
+- prefixed 前缀
+- library 库
+- palindromic 回文的
+- indicator 指示符
+- swipe 滑动
+- retrieve v.检索
+- retrieval n.检索
+- List Comprehension 列表推导
+- dirty-checking 脏检查
+- boilerplate 样板引用，引用
+- directives 指令
+- mutation method 变异方法
+- non-mutating method 非变异方法
+- capture 捕获
+- separation of concern 关注点分离
+- component 组件
+- events interface 事件接口
+- transclusion 过渡
+- reactivity system 响应式系统
+- duplicate 重复
+- elastic 具有可伸缩性的
+- quadratic bezier 二次贝塞尔
+- social network 社会网络
+- social clusters 社会集群
+- illustrate 说明
+- factorization 因式分解
+- multiple n. 倍数；[电] 并联
+- shortened 缩短
+- discrete 离散的
+- pseudo-property 伪属性
+- self-overwriting 自我覆盖
+- optimization 优化
+- duplicates 副本
+- scalable 可扩展的
+- closures 闭包
+- scenario 情节；脚本；情景介绍
+- regular expression 正则表达式
+- enclosed 封闭的
+- slashes 斜杠语法
+- literal 字面值；文字
+- parentheses 括号
+- capturing parentheses [正则]捕获括号
+- encapsulate 封装
+- encapsulated 密封的
+- disproportionately 不成比例的
+- threshhold 阈值
+- debounce 防抖动
+- throttle 节流
+- (forward) proxy （正向）代理
+- reverse proxy 反向代理
+- load balancing 负载均衡
+- encapsulate 封装
+- scalar 标量
+- estimator 估计函数
+- paradigm 范式
+- sophisticated 精细的，复杂的
+- convolution 卷积

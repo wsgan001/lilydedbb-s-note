@@ -1,0 +1,101 @@
+# TOFEL 词以类记 —— 政治
+
+- factious 党派的
+- tribal 部落的；种族的 *(Tribal is used to describe things relating to or belonging to tribes and the way that they are organized.)*
+- partisan n. 游击队 adj. 党派的
+    - Someone who is partisan strongly supports a particular person or cause, often without thinking carefully about the matter.
+    - Partisans are ordinary people, rather than soldiers, who join together to fight enemy soldiers who are occupying their country.
+- board 董事会；委员会
+- Senate 参议院；上院
+- Congress 国会
+- diplomatic
+- diplomacy
+- confederate n. 同盟国，同盟者 adj. 同盟的，联合的 v. 同盟；联合
+    - Someone's confederates are the people they are working with in a secret activity.
+- league 同盟，联盟
+- affiliate 加盟
+    - associate, ally
+- unconventional adj. 非常规的；非传统的；不依惯例的
+    - If you describe a person or their attitude or behavior as unconventional, you mean that they do not behave in the same way as most other people in their society.
+    - An unconventional way of doing something is not the usual way of doing it, and may be rather surprising.
+- dictatorial 独断的，专断的
+    - tyrannical
+- domestic
+- potent 强有力的，有权势的 *(very effective and powerful)*
+- cogent 强有力的；使人信服的 *(strong and convincing.)*
+- authoritative 权威的，官方的
+- influential
+- centralized 中央集权的；集中的
+- authority
+- privilege
+- prerogative 特权 *(If something is the prerogative of a particular person or group, it is a privilege or a power that only they have.)*
+- democracy
+- petition 请愿
+- domain
+- territory
+- nationality
+- kingdom
+- realm
+- regime 政权
+- sovereignty 主权 *(Sovereignty is the power that a country has to govern itself or another country or state.)*
+- autonomy
+- commission 委员会
+- committee 委员
+- election 选举
+- ballot 选票
+    - vote, poll
+- ideology
+- parade
+    - march, procession
+- govern
+- confer 协商；授予
+    - When you confer with someone, you discuss something with them in order to make a decision. You can also say that two people confer.
+    - To confer something such as power or an honor on someone means to give it to them.
+- entitle
+- exploit
+- manoeuvre n. 策略 vt. 诱使；操纵
+    - If you manoeuvre something into or out of an awkward position, you skilfully move it there.
+    - If you manoeuvre a situation, you change it in a clever and skilful way so that you can benefit from it.
+    - Military manoeuvres are training exercises which involve the movement of soldiers and equipment over a large area.
+- reform
+    - regenerate
+- inspect
+- emigrate
+- immigrate
+- immigrant
+- exile n. 流放 v. 放逐，流放
+    - banish 放逐；驱逐
+    - deport
+- enslave 奴役
+    - To enslave someone means to make them into a slave.
+    - To enslave a person or society means to trap them in a situation from which they cannot escape.
+- hustle n. 推；奔忙；拥挤喧嚷 v. 催促；赶紧；硬挤过去
+    - hurry, hasten
+- impel 驱使
+    - compel, urge
+- oust 驱逐 *(If someone is ousted from a position of power, job, or place, they are forced to leave it.)*
+    - dismiss
+- banish 放逐；驱逐
+- deport
+- enable
+- reign
+- dominate 统治，支配，控制
+- abdicate 放弃权利，退位
+- administer
+- administration
+- institute
+- amendment 改善，改正
+    - An amendment is a section that is added to a law or rule in order to change it.
+    - An amendment is a change that is made to a piece of writing.
+- colonize 殖民；扩张
+- check
+- monarchy 君主国，君主政体
+- republican
+- anarchism 无政府主义
+- doctrine 主义
+    - principle
+- municipal 市政的，地方的
+- strike 罢工
+- scandal
+- vote
+- welfare

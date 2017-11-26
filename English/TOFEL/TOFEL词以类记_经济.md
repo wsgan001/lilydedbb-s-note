@@ -1,0 +1,135 @@
+# TOFEL 词以类记 —— 经济
+
+- toll vt. 征收；敲钟 n. 通行费；钟声；伤亡人数 vi. 鸣钟；征税
+    - fee, charge
+- precious
+    - valuable
+- prosperous
+    - thriving, flourishing
+- prosperity
+- rich
+- rare
+    - scare, uncommon
+- asset
+    - procession, property
+- fortune
+- opulence 富裕
+    - wealth, affluence
+- opulent 富裕的
+    - Opulent things or places look grand and expensive.
+    - Opulent people are very wealthy and spend a lot of money.
+- finance
+- economic
+- indigent 贫穷的 *(Someone who is indigent is very poor.)*
+    - needy, poor
+- depression 萧条
+    - recession
+- penury 贫穷 *(Penury is the state of being extremely poor.)*
+- bidding 投标
+- exponent 指数；支持者（反对者 opponent）
+    - index, indicator
+- lease 出租
+    - A lease is a legal agreement by which the owner of a building, a piece of land, or something such as a car allows someone else to use it for a period of time in return for money.
+    - If you lease property or something such as a car from someone or if they lease it to you, they allow you to use it in return for regular payments of money.
+    - lend, loan
+- redress 补偿；救济；赔偿；矫正
+    - If you redress something such as a wrong or a complaint, you do something to correct it or to improve things for the person who has been badly treated.
+    - If you redress the balance or the imbalance between two things that have become unfair or unequal, you make them fair and equal again.
+    - Redress is money that someone pays you because they have caused you harm or loss.
+    - rectify, remedy
+- compensation
+- deficit 赤字 *(A deficit is the amount by which something is less than what is required or expected, especially the amount by which the total money received is less than the total money spent.)*
+- levy 征税
+- ration n. 定量，配给量 v. 配给，分发
+    - When there is not enough of something, your ration of it is the amount that you are allowed to have.
+    - When something is rationed by a person or government, you are only allowed to have a limited amount of it, usually because there is not enough of it.
+    - Rations are the food which is given to people who do not have enough food or to soldiers.
+    - Your ration of something is the amount of it that you normally have.
+    - share, allowance
+    - allocate, share
+- rebate 返回款，折扣 *(A rebate is an amount of money which is paid to you when you have paid more tax, rent, or rates than you needed to.)*
+    - refund, repayment
+- merchandise 商品
+    - commodities, goods
+- commerce
+- enterprise
+- currency
+- inventory 物品清单，库存品
+    - An inventory is a written list of all the objects in a particular place.
+    - An inventory is a supply or stock of something.
+- quota 配额；定额；限额
+    - portion, share
+- tariff 关税；收费表
+    - A tariff is a tax that a government collects on goods coming into a country.
+    - A tariff is the rate at which you are charged for public services such as gas and electricity, or for accommodation and services in a hotel.
+- inflation 通货膨胀 *(Inflation is a general increase in the prices of goods and services in a country.)*
+- deal
+- yen 日元
+- consume
+- disburse 支付；支出 *(To disburse an amount of money means to pay it out, usually from a fund which has been collected for a particular purpose.)*
+- inertia
+- discount
+- audit 审计；查账 *(When an accountant audits an organization's accounts, he or she examines the accounts officially in order to make sure that they have been done correctly.)*
+- shipment 装货；装载的货物
+- surplus
+- residue 残余
+    - remains, leftover, remnant
+- account
+- bankruptcy
+- savings 储蓄
+- collateral n. 抵押品；担保品 adj. 并行的；旁系的；附属的
+    - Collateral is money or property which is used as a guarantee that someone will repay a loan.
+- bill
+- check
+- coin
+- depreciate 贬值 *(If something such as a currency depreciates or if something depreciates it, it loses some of its original value.)*
+- merge
+    - combine, amalgamate 合并
+- reimburse *(If you reimburse someone for something, you pay them back the money that they have spent or lost because of it.)*
+    - pay back, refund
+- garner 获得；储存
+    - restore
+- underestimate
+- exchange
+- assess
+- consolidate  巩固，使固定；联合，加强
+    - If you consolidate something that you have, for example power or success, you strengthen it so that it becomes more effective or secure.
+    - To consolidate a number of small groups or firms means to make them into one large organization.
+- loan
+- refund
+- utility 效用
+    - function, usefulness
+- selection
+- option
+- economics
+- output
+    - turnout, yield
+- opportunity
+- benefit
+    - profit, interest
+- contract
+    - agreement
+- lottery 彩票；奖券；抽奖
+    - A lottery is a type of gambling game in which people buy numbered tickets. Several numbers are then chosen, and the people who have those numbers on their tickets win a prize.
+    - If you describe something as a lottery, you mean that what happens depends entirely on luck or chance.
+- transaction
+    - business, trade, deal
+- budget
+- patronage 赞助 *(Patronage is the support and money given by someone to a person or a group such as a charity.)*
+- barter 易货 *(If you barter goods, you exchange them for other goods, rather than selling them for money.)*
+- purchase
+- deposit 放置，存款
+- commission 雇佣金
+- ransom 赎金；赎身，赎回
+    - A ransom is the money that has to be paid to someone so that they will set free a person they have kidnapped.
+    - If you ransom someone who has been kidnapped, you pay the money to set them free.
+    - redemption 赎回 *(Redemption is the act of redeeming something or of being redeemed by something.)*
+- bonus 红利，奖金
+    - award, gift
+- bond 公债
+- debt
+- liability 责任；债务
+    - If you say that someone or something is a liability, you mean that they cause a lot of problems or embarrassment.
+    - A company's or organization's liabilities are the sums of money which it owes.
+- fund
+- revenue
