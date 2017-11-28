@@ -13,6 +13,29 @@ $ pyenv versions
 - `$ pyenv global`: Set or show the global Python version
 - `$ pyenv local`: Set or show the local Python version
 
+
+### pyenv installer
+
+```
+$ curl -L https://raw.githubusercontent.com/pyenv/pyenv-installer/master/bin/pyenv-installer | bash
+```
+
+Uninstall:
+
+pyenv is installed within `$PYENV_ROOT` (default: `~/.pyenv`). To uninstall, just remove it:
+
+```
+$ rm -fr ~/.pyenv
+```
+
+and remove these three lines from `.bashrc`:
+
+```
+export PATH="~/.pyenv/bin:$PATH"
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
+```
+
 ### 国内源配置
 
 - sohu 源：[http://mirrors.sohu.com/python/](http://mirrors.sohu.com/python/)

@@ -8,6 +8,7 @@
     * [Deep Residual Learning for Image Recognition](ResNet.md)
     * [Fully Convolutional Instance-aware Semantic Segmentation](FCIS.md)
     * [You Only Look Once: Unified, Real-Time Object Detection](YOLO.md)
+    * [YOLO9000: Better, Faster, Stronger](YOLO9000.md)
     * [ Fully Convolutional Networks for Semantic Segmentation](FCN.md)
     * [SSD: Single Shot MultiBox Detector](SSD.md)
     * [DSSD: Deconvolutional Single Shot Detector](DSSD.md)
