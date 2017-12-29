@@ -12,3 +12,7 @@
     * [ Fully Convolutional Networks for Semantic Segmentation](FCN.md)
     * [SSD: Single Shot MultiBox Detector](SSD.md)
     * [DSSD: Deconvolutional Single Shot Detector](DSSD.md)
+    * [MobileNets: Efficient Convolutional Neural Network](MobileNets.md)
+    * [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](ShuffleNet.md)
+    * [Faster R-CNN 源码](Faster_RCNN源码.md)
+    * [Faster R-CNN 源码 —— AP](Faster_RCNN源码_AP.md)
