@@ -2,6 +2,10 @@
 
 ## ROIPooling
 
+> ROI Pooling 首次被 Ross Girshick 在论文 [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf) 中提出
+
+[https://blog.deepsense.ai/region-of-interest-pooling-explained/](https://blog.deepsense.ai/region-of-interest-pooling-explained/)
+
 ### ROI Pooling的输入
 
 输入有两部分组成：
